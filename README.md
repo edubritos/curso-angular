@@ -4,6 +4,11 @@ Esse curso foi feito para a plataforma [Digital Innovation One](https://digitali
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
+![Menu](https://user-images.githubusercontent.com/59884552/78418675-e153a400-7614-11ea-9fa2-27fa17b3b3e2.png)
+![Filmes](https://user-images.githubusercontent.com/59884552/78418676-e284d100-7614-11ea-8f41-ca1a8a292109.png)
+![Filtro](https://user-images.githubusercontent.com/59884552/78418677-e31d6780-7614-11ea-826e-c6534f192939.png)
+![Form](https://user-images.githubusercontent.com/59884552/78418679-e31d6780-7614-11ea-910e-93b3d6ba3a75.png)
+
 ## Instalação
 
 1. clone o repositório `git clone git@github.com:RenanRB/curso-angular.git`
